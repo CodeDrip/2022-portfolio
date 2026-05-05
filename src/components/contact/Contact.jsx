@@ -32,16 +32,16 @@ const Contact = () => {
                 <span>Washington D.C.</span>
               </div>
             </div>
-            <div className="contact_card-row-wrap">
+            {/* <div className="contact_card-row-wrap">
               <div className="contact_card-row">
                 <img className="" src={phone} alt="phone" />
                 <span>202-500-5721</span>
               </div>
-            </div>
+            </div> */}
             <div className="contact_card-row-wrap">
               <div className="contact_card-row">
                 <img className="" src={github} alt="github" />
-                <span>Github/dhaedream</span>
+                <span>Github/codedrip</span>
               </div>
             </div>
             <div className="contact_card-row-wrap">

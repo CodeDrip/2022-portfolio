@@ -51,8 +51,8 @@ const ProjectData = [
       "This is my original portfoio from this past Winter. A super basic website I had to reimagine by Spring 2022. As an artist, I must note, there is nothing spactacular about this original portfolio's design or code. It's here to prove how much I've learned in about 6 months of hard (independent) work. I did not feel like a developer 6 months ago creating my original portfolio. Today, I am confident and hopeful to join a fabulous team.",
     details: "",
 
-    glink: "https://github.com/dhaedream/Portfolio",
-    dlink: "https://portfolio-three-sandy-75.vercel.app/",
+    glink: "https://github.com/CodeDrip/first-portfolio",
+    dlink: "https://first-portfolio-nine-phi.vercel.app/",
   },
 ];
 

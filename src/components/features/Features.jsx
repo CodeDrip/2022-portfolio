@@ -25,8 +25,9 @@ const Features = () => {
         <div className="features_content-wrapper">
           <h3 className="features_header">BACKGROUND</h3>
           <div className="features_body-para">
-            <p>5 years of IT Support</p>
+            <p>IT Support</p>
             <p>Freelance Graphic Design</p>
+            <p>Software Development</p>
           </div>
         </div>
       </div>
@@ -37,7 +38,7 @@ const Features = () => {
           <div className="features_body-para">
             <p>Dynamic + Committed Self Starter</p>
             <p>Developer + Designer</p>
-            <p>Blockchain Stack</p>
+            <p></p>
           </div>
         </div>
       </div>
@@ -48,7 +49,7 @@ const Features = () => {
           <div className="features_body-para">
             <p>Build Projects That Inspire</p>
             <p>Grow Professionally</p>
-            <p>Become a Web3 Expert</p>
+            <p></p>
           </div>
         </div>
       </div>
